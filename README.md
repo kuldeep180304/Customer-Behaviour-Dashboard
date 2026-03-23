@@ -144,4 +144,10 @@ The dashboard includes:
 
 The Customer Behaviour Dashboard project demonstrates a complete data analytics pipeline from raw data preprocessing to SQL analysis and dashboard reporting. It highlights practical skills in Python, SQL, data modeling, and visualization.
 
+#Demo video
+
+
+
+https://github.com/user-attachments/assets/5d074219-9085-42bb-99c4-dd82a6b65726
+
 
