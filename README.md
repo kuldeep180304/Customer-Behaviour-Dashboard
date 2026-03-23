@@ -1,4 +1,3 @@
-# Customer-Behaviour-Dashboard
 # 🛍️ Customer Behaviour Dashboard
 
 ## 📊 Project Overview
