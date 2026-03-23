@@ -131,7 +131,10 @@ The dashboard includes:
 - Insight-driven decision-making support
 
 ---
+##📷 Dashboard Preview
+![Dashboard Preview](C:\Users\KULDEEP UPADHYAY\Documents\Projects\Customer Behavior Dashboard)
 
+---
 ## 📁 Project Structure
 
 ```bash
