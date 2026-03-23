@@ -131,17 +131,20 @@ The dashboard includes:
 - Insight-driven decision-making support
 
 ---
-📷 Dashboard Preview
+
+# 📷 Dashboard Preview
 
 <img width="1455" height="789" alt="SS of Customer Behaviour Dashboard" src="https://github.com/user-attachments/assets/466844f9-2037-4a24-b036-b40c4d7a1daa" />
 
 
 ---
+
 # 🚀 Future Improvements
-Add predictive analytics for customer churn
-Build customer lifetime value analysis
-Create product recommendation insights
-Deploy the dashboard online for easier access
+
+-Add predictive analytics for customer churn
+-Build customer lifetime value analysis
+-Create product recommendation insights
+-Deploy the dashboard online for easier access
 ---
 
 # ✅ Conclusion
