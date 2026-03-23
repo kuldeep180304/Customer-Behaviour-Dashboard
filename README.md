@@ -139,12 +139,13 @@ The dashboard includes:
 
 ---
 
-# 🚀 Future Improvements
+## 🚀 Future Improvements
 
 -Add predictive analytics for customer churn
 -Build customer lifetime value analysis
 -Create product recommendation insights
 -Deploy the dashboard online for easier access
+
 ---
 
 # ✅ Conclusion
