@@ -1,5 +1,7 @@
 # 🛍️ Customer Behaviour Dashboard
 ### 📊 End-to-End Data Analytics Project using Python, SQL, and Power BI
+End-to-end data analytics project using Python, SQL, and Power BI to analyze customer shopping behavior and business insights.
+---
 ## 📊 Project Overview
 
 The **Customer Behaviour Dashboard** is an end-to-end **data analytics project** designed to analyze customer shopping behavior and generate meaningful business insights using **Python, SQL, and Power BI**.
