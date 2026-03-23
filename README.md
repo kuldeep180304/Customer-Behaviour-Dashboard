@@ -137,6 +137,17 @@ The dashboard includes:
 
 
 ---
+##🚀 Future Improvements
+Add predictive analytics for customer churn
+Build customer lifetime value analysis
+Create product recommendation insights
+Deploy the dashboard online for easier access
+---
+#✅ Conclusion
+
+The Customer Behaviour Dashboard project demonstrates a complete data analytics pipeline from raw data preprocessing to SQL analysis and dashboard reporting. It highlights practical skills in Python, SQL, data modeling, and visualization.
+---
+
 ## 📁 Project Structure
 
 ```bash
@@ -158,16 +169,6 @@ customer-behaviour-dashboard/
 │   └── dashboard_preview.png
 │
 └── README.md
----
-#🚀 Future Improvements
-Add predictive analytics for customer churn
-Build customer lifetime value analysis
-Create product recommendation insights
-Deploy the dashboard online for easier access
----
-#✅ Conclusion
-
-The Customer Behaviour Dashboard project demonstrates a complete data analytics pipeline from raw data preprocessing to SQL analysis and dashboard reporting. It highlights practical skills in Python, SQL, data modeling, and visualization.
 
 The insights generated from this project can help businesses better understand customer behavior, improve marketing strategies, optimize pricing and discount plans, and support data-driven decision-making.
 
