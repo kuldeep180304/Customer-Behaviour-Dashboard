@@ -132,7 +132,9 @@ The dashboard includes:
 
 ---
 ##📷 Dashboard Preview
-![Dashboard Preview](C:\Users\KULDEEP UPADHYAY\Documents\Projects\Customer Behavior Dashboard)
+
+<img width="1455" height="789" alt="SS of Customer Behaviour Dashboard" src="https://github.com/user-attachments/assets/466844f9-2037-4a24-b036-b40c4d7a1daa" />
+
 
 ---
 ## 📁 Project Structure
